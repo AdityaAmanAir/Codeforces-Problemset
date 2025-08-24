@@ -1,4 +1,4 @@
-Conundrum:
+Problem Statement:
 The classic programming language of Bitland is Bit++. This language is so peculiar and complicated.
 
 The language is that peculiar as it has exactly one variable, called x. Also, there are two operations:
